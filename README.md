@@ -28,13 +28,13 @@ If you want to apply our samplers to other problems, we recommend that you modif
 #### Citation
 Please cite our paper with the following bib information if you use this code in your own work:
 
-    @misc{https://doi.org/10.48550/arxiv.2201.00958,
-        doi = {10.48550/ARXIV.2201.00958},
-        url = {https://arxiv.org/abs/2201.00958},
-        author = {Su, Jiaji and Yao, Zhigang and Li, Cheng and Zhang, Ye},
-        keywords = {Applications (stat.AP), FOS: Computer and information sciences, FOS: Computer and information sciences},
-        title = {A Statistical Approach to Estimating Adsorption-Isotherm Parameters in Gradient-Elution Preparative Liquid Chromatography},
-        publisher = {arXiv},
-        year = {2022},
-        copyright = {Creative Commons Attribution 4.0 International}
+    @article{su2023statistical,
+    title={A statistical approach to estimating adsorption-isotherm parameters in gradient-elution preparative liquid chromatography},
+    author={Su, Jiaji and Yao, Zhigang and Li, Cheng and Zhang, Ye},
+    journal={The Annals of Applied Statistics},
+    volume={17},
+    number={4},
+    pages={3476--3499},
+    year={2023},
+    publisher={Institute of Mathematical Statistics}
     }
